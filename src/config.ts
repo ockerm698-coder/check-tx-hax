@@ -18,7 +18,7 @@ export const RPC_CONFIGS = {
   },
   localhost: {
     name: '本地测试网络',
-    rpc: 'http://localhost:8545',
+    rpc: 'http://localhost:7545',
   },
 };
 
